@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {
+        "lib-libxml":">=2.9.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "6",
+        "lib-libxml":">=2.9.2"
+    }
+}

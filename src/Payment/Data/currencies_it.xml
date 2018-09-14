@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<currencies>
+	<currency><code>AED</code><name>Dirham</name><numeric_code>784</numeric_code><decimals>2</decimals><country>Emirati Arabi Uniti</country></currency>
+	<currency><code>ARS</code><name>Peso</name><numeric_code>32</numeric_code><decimals>2</decimals><country>Argentina</country></currency>
+	<currency><code>AUD</code><name>Dollaro</name><numeric_code>36</numeric_code><decimals>2</decimals><country>Australia</country></currency>
+	<currency><code>AZN</code><name>Nuovo manat dell’Azerbaigian</name><numeric_code>944</numeric_code><decimals>2</decimals><country>Azerbaigian</country></currency>
+	<currency><code>BBD</code><name>Dollaro delle Barbados</name><numeric_code>52</numeric_code><decimals>2</decimals><country>Barbados</country></currency>
+	<currency><code>BGN</code><name>Lev</name><numeric_code>975</numeric_code><decimals>2</decimals><country>Bulgaria</country></currency>
+	<currency><code>BHD</code><name>Dinaro</name><numeric_code>48</numeric_code><decimals>3</decimals><country>Bahrain</country></currency>
+	<currency><code>BIF</code><name>Franco</name><numeric_code>108</numeric_code><decimals>0</decimals><country>Burundi</country></currency>
+	<currency><code>BMD</code><name>Dollaro delle Bermuda</name><numeric_code>60</numeric_code><decimals>2</decimals><country>Bermuda</country></currency>
+	<currency><code>BOB</code><name>Bolivian Boliviano</name><numeric_code>68</numeric_code><decimals>2</decimals><country>Bolivia</country></currency>
+	<currency><code>BRL</code><name>Real</name><numeric_code>986</numeric_code><decimals>2</decimals><country>Brasile</country></currency>
+	<currency><code>BYN</code><name>Rublo</name><numeric_code>933</numeric_code><decimals>2</decimals><country>Bielorussia</country></currency>
+	<currency><code>BZD</code><name>Dollaro del Belize</name><numeric_code>84</numeric_code><decimals>2</decimals><country>Belize</country></currency>
+	<currency><code>CAD</code><name>Dollaro</name><numeric_code>124</numeric_code><decimals>2</decimals><country>Canada</country></currency>
+	<currency><code>CHF</code><name>Franchi</name><numeric_code>756</numeric_code><decimals>2</decimals><country>Svizzero</country></currency>
+	<currency><code>CLP</code><name>Peso cileno</name><numeric_code>152</numeric_code><decimals>0</decimals><country>Cile</country></currency>
+	<currency><code>CNY</code><name>Renminbi Yuan</name><numeric_code>156</numeric_code><decimals>2</decimals><country>Repubblica Popolare Cinese</country></currency>
+	<currency><code>CRC</code><name>Colón costaricano</name><numeric_code>188</numeric_code><decimals>2</decimals><country>Costa Rica</country></currency>
+	<currency><code>CZK</code><name>Corona</name><numeric_code>203</numeric_code><decimals>2</decimals><country>Repubblica Ceca</country></currency>
+	<currency><code>DJF</code><name>Franco</name><numeric_code>262</numeric_code><decimals>0</decimals><country>Gibuti</country></currency>
+	<currency><code>DKK</code><name>Corona</name><numeric_code>208</numeric_code><decimals>2</decimals><country>Danimarca</country></currency>
+	<currency><code>DOP</code><name>Peso dominicano</name><numeric_code>214</numeric_code><decimals>2</decimals><country>Repubblica Dominicana</country></currency>
+	<currency><code>EGP</code><name>Sterlina</name><numeric_code>818</numeric_code><decimals>2</decimals><country>Egitto</country></currency>
+	<currency><code>EUR</code><name>Euro</name><numeric_code>978</numeric_code><decimals>2</decimals><country>Unione Monetaria Europea</country></currency>
+	<currency><code>GBP</code><name>Sterlina</name><numeric_code>826</numeric_code><decimals>2</decimals><country>Regno Unito</country></currency>
+	<currency><code>GNF</code><name>Franco</name><numeric_code>324</numeric_code><decimals>0</decimals><country>Guinea</country></currency>
+	<currency><code>GTQ</code><name>Quetzal guatemalteco</name><numeric_code>320</numeric_code><decimals>2</decimals><country>Guatemala</country></currency>
+	<currency><code>HKD</code><name>Dollaro</name><numeric_code>344</numeric_code><decimals>2</decimals><country>Hong Kong</country></currency>
+	<currency><code>HNL</code><name>Lempira honduregna</name><numeric_code>340</numeric_code><decimals>2</decimals><country>Honduras</country></currency>
+	<currency><code>HRK</code><name>Kuna</name><numeric_code>191</numeric_code><decimals>2</decimals><country>Croazia</country></currency>
+	<currency><code>HUF</code><name>Fiorino</name><numeric_code>348</numeric_code><decimals>2</decimals><country>Ungheria</country></currency>
+	<currency><code>IDR</code><name>Rupia</name><numeric_code>360</numeric_code><decimals>2</decimals><country>Indonesia</country></currency>
+	<currency><code>ILS</code><name>Nuovo shekel israeliano</name><numeric_code>376</numeric_code><decimals>2</decimals><country>Israele</country></currency>
+	<currency><code>INR</code><name>Rupia</name><numeric_code>356</numeric_code><decimals>2</decimals><country>India</country></currency>
+	<currency><code>ISK</code><name>Corona</name><numeric_code>352</numeric_code><decimals>2</decimals><country>Islanda</country></currency>
+	<currency><code>JMD</code><name>Dollaro giamaicano</name><numeric_code>388</numeric_code><decimals>2</decimals><country>Giamaica</country></currency>
+	<currency><code>JPY</code><name>Yen</name><numeric_code>392</numeric_code><decimals>0</decimals><country>Giappone</country></currency>
+	<currency><code>KRW</code><name>Won</name><numeric_code>410</numeric_code><decimals>0</decimals><country>Repubblica di Corea</country></currency>
+	<currency><code>KWD</code><name>Dinaro</name><numeric_code>414</numeric_code><decimals>3</decimals><country>Kuwait</country></currency>
+	<currency><code>KZT</code><name>Tenge</name><numeric_code>398</numeric_code><decimals>2</decimals><country>Kazakistan</country></currency>
+	<currency><code>LKR</code><name>Rupia singalese</name><numeric_code>144</numeric_code><decimals>2</decimals><country>Sri Lanka</country></currency>
+	<currency><code>LTL</code><name>Litas</name><numeric_code>440</numeric_code><decimals>2</decimals><country>Lituania</country></currency>
+	<currency><code>MAD</code><name>Dirham</name><numeric_code>504</numeric_code><decimals>2</decimals><country>Marocco, Sahara Occidentale</country></currency>
+	<currency><code>MAG</code><name>Ariary</name><numeric_code>969</numeric_code><decimals>0</decimals><country>Madagascar</country></currency>
+	<currency><code>MOP</code><name>Pataca di Macao</name><numeric_code>446</numeric_code><decimals>2</decimals><country>Macao</country></currency>
+	<currency><code>MXN</code><name>Peso</name><numeric_code>484</numeric_code><decimals>2</decimals><country>Messico</country></currency>
+	<currency><code>MYR</code><name>Ringgit</name><numeric_code>458</numeric_code><decimals>2</decimals><country>Malesia</country></currency>
+	<currency><code>NOK</code><name>Corona</name><numeric_code>578</numeric_code><decimals>2</decimals><country>Norvegia</country></currency>
+	<currency><code>NZD</code><name>Dollaro neozelandese</name><numeric_code>554</numeric_code><decimals>2</decimals><country>Nuova Zelanda</country></currency>
+	<currency><code>PAB</code><name>Balboa panamense</name><numeric_code>590</numeric_code><decimals>2</decimals><country>Panama</country></currency>
+	<currency><code>PLN</code><name>Zloty</name><numeric_code>985</numeric_code><decimals>2</decimals><country>Polonia</country></currency>
+	<currency><code>PKR</code><name>Rupia pakistana</name><numeric_code>586</numeric_code><decimals>2</decimals><country>Pakistan</country></currency>
+	<currency><code>PYG</code><name>Guaraní</name><numeric_code>600</numeric_code><decimals>0</decimals><country>Paraguay</country></currency>
+	<currency><code>QAR</code><name>Riyal del Quatar</name><numeric_code>634</numeric_code><decimals>2</decimals><country>Quatar</country></currency>
+	<currency><code>RON</code><name>Leu</name><numeric_code>946</numeric_code><decimals>2</decimals><country>Romania</country></currency>
+	<currency><code>RSD</code><name>Dinaro</name><numeric_code>941</numeric_code><decimals>2</decimals><country>Serbia</country></currency>
+	<currency><code>RUB</code><name>Rublo</name><numeric_code>643</numeric_code><decimals>2</decimals><country>Federazione russa</country></currency>
+	<currency><code>SAR</code><name>Riyal saudita</name><numeric_code>682</numeric_code><decimals>2</decimals><country>Arabia Saudita</country></currency>
+	<currency><code>SEK</code><name>Corona</name><numeric_code>752</numeric_code><decimals>2</decimals><country>Svezia</country></currency>
+	<currency><code>SGD</code><name>Dollaro</name><numeric_code>702</numeric_code><decimals>2</decimals><country>Singapore</country></currency>
+	<currency><code>TND</code><name>Dinaro</name><numeric_code>788</numeric_code><decimals>3</decimals><country>Tunisia</country></currency>
+	<currency><code>THB</code><name>Baht</name><numeric_code>764</numeric_code><decimals>2</decimals><country>Thailandia</country></currency>
+	<currency><code>TRY</code><name>Nuova lira</name><numeric_code>949</numeric_code><decimals>2</decimals><country>Turchia</country></currency>
+	<currency><code>TWD</code><name>Dollaro</name><numeric_code>901</numeric_code><decimals>2</decimals><country>Repubblica della Cina (Taiwan)</country></currency>
+	<currency><code>UAH</code><name>Hryvnia</name><numeric_code>980</numeric_code><decimals>2</decimals><country>Ucraina</country></currency>
+	<currency><code>UGX</code><name>Scellino</name><numeric_code>800</numeric_code><decimals>0</decimals><country>Uganda</country></currency>
+	<currency><code>USD</code><name>Dollaro</name><numeric_code>840</numeric_code><decimals>2</decimals><country>Stati Uniti</country></currency>
+	<currency><code>VND</code><name>Đồng</name><numeric_code>704</numeric_code><decimals>2</decimals><country>Vietnam</country></currency>
+	<currency><code>VUV</code><name>Vatu</name><numeric_code>548</numeric_code><decimals>0</decimals><country>Vanuatu</country></currency>
+	<currency><code>ZAR</code><name>Rand</name><numeric_code>710</numeric_code><decimals>2</decimals><country>Sud Africa</country></currency>
+</currencies>

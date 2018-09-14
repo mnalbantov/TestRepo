@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+	<country><code>004</code><name>Afghanistan</name><three_digits>AFG</three_digits><two_digits>AF</two_digits></country>
+	<country><code>818</code><name>Egitto</name><three_digits>EGY</three_digits><two_digits>EG</two_digits></country>
+	<country><code>248</code><name>Isole Aaran</name><three_digits>ALA</three_digits><two_digits>AX</two_digits></country>
+	<country><code>008</code><name>Albania</name><three_digits>ALB</three_digits><two_digits>AL</two_digits></country>
+	<country><code>012</code><name>Algeria</name><three_digits>DZA</three_digits><two_digits>DZ</two_digits></country>
+	<country><code>850</code><name>Isole Vergini americane</name><three_digits>VIR</three_digits><two_digits>VI</two_digits></country>
+	<country><code>016</code><name>Samoa Americane</name><three_digits>ASM</three_digits><two_digits>AS</two_digits></country>
+	<country><code>020</code><name>Andorra</name><three_digits>AND</three_digits><two_digits>AD</two_digits></country>
+	<country><code>024</code><name>Angola</name><three_digits>AGO</three_digits><two_digits>AO</two_digits></country>
+	<country><code>660</code><name>Anguilla</name><three_digits>AIA</three_digits><two_digits>AI</two_digits></country>
+	<country><code>028</code><name>Antigua e Barbuda</name><three_digits>ATG</three_digits><two_digits>AG</two_digits></country>
+	<country><code>226</code><name>Guinea Equatoriale</name><three_digits>GNQ</three_digits><two_digits>GQ</two_digits></country>
+	<country><code>032</code><name>Argentina</name><three_digits>ARG</three_digits><two_digits>AR</two_digits></country>
+	<country><code>051</code><name>Armenia</name><three_digits>ARM</three_digits><two_digits>AM</two_digits></country>
+	<country><code>533</code><name>Aruba</name><three_digits>ABW</three_digits><two_digits>AW</two_digits></country>
+	<country><code>031</code><name>Azerbaigian</name><three_digits>AZE</three_digits><two_digits>AZ</two_digits></country>
+	<country><code>231</code><name>Etiopia</name><three_digits>ETH</three_digits><two_digits>ET</two_digits></country>
+	<country><code>036</code><name>Australia</name><three_digits>AUS</three_digits><two_digits>AU</two_digits></country>
+	<country><code>044</code><name>Bahamas</name><three_digits>BHS</three_digits><two_digits>BS</two_digits></country>
+	<country><code>048</code><name>Bahrain</name><three_digits>BHR</three_digits><two_digits>BH</two_digits></country>
+	<country><code>050</code><name>Bangladesh</name><three_digits>BGD</three_digits><two_digits>BD</two_digits></country>
+	<country><code>052</code><name>Barbados</name><three_digits>BRB</three_digits><two_digits>BB</two_digits></country>
+	<country><code>056</code><name>Belgio</name><three_digits>BEL</three_digits><two_digits>BE</two_digits></country>
+	<country><code>084</code><name>Belize</name><three_digits>BLZ</three_digits><two_digits>BZ</two_digits></country>
+	<country><code>204</code><name>Benin</name><three_digits>BEN</three_digits><two_digits>BJ</two_digits></country>
+	<country><code>060</code><name>Bermuda</name><three_digits>BMU</three_digits><two_digits>BM</two_digits></country>
+	<country><code>275</code><name>Territorio palestinese occupato</name><three_digits>PSE</three_digits><two_digits>PS</two_digits></country>
+	<country><code>064</code><name>Bhutan</name><three_digits>BTN</three_digits><two_digits>BT</two_digits></country>
+	<country><code>068</code><name>Bolivia</name><three_digits>BOL</three_digits><two_digits>BO</two_digits></country>
+	<country><code>070</code><name>Bosnia ed Erzegovina</name><three_digits>BIH</three_digits><two_digits>BA</two_digits></country>
+	<country><code>072</code><name>Botswana</name><three_digits>BWA</three_digits><two_digits>BW</two_digits></country>
+	<country><code>076</code><name>Brasile</name><three_digits>BRA</three_digits><two_digits>BR</two_digits></country>
+	<country><code>092</code><name>Isole Vergini britanniche</name><three_digits>VGB</three_digits><two_digits>VG</two_digits></country>
+	<country><code>096</code><name>Brunei Darussalam</name><three_digits>BRN</three_digits><two_digits>BN</two_digits></country>
+	<country><code>100</code><name>Bulgaria</name><three_digits>BGR</three_digits><two_digits>BG</two_digits></country>
+	<country><code>854</code><name>Burkina Faso</name><three_digits>BFA</three_digits><two_digits>BF</two_digits></country>
+	<country><code>108</code><name>Burundi</name><three_digits>BDI</three_digits><two_digits>BI</two_digits></country>
+	<country><code>152</code><name>Cile</name><three_digits>CHL</three_digits><two_digits>CL</two_digits></country>
+	<country><code>156</code><name>Cina</name><three_digits>CHN</three_digits><two_digits>CN</two_digits></country>
+	<country><code>184</code><name>Isole Cook</name><three_digits>COK</three_digits><two_digits>CK</two_digits></country>
+	<country><code>188</code><name>Costa Rica</name><three_digits>CRI</three_digits><two_digits>CR</two_digits></country>
+	<country><code>531</code><name>Curaçao</name><three_digits>CUW</three_digits><two_digits>CW</two_digits></country>
+	<country><code>208</code><name>Danimarca</name><three_digits>DNK</three_digits><two_digits>DK</two_digits></country>
+	<country><code>180</code><name>Repubblica Democratica del Congo</name><three_digits>COD</three_digits><two_digits>CD</two_digits></country>
+	<country><code>408</code><name>Repubblica Popolare Democratica di Corea</name><three_digits>PRK</three_digits><two_digits>KP</two_digits></country>
+	<country><code>418</code><name>Repubblica Democratica Popolare del Laos</name><three_digits>LAO</three_digits><two_digits>LA</two_digits></country>
+	<country><code>276</code><name>Germania</name><three_digits>DEU</three_digits><two_digits>DE</two_digits></country>
+	<country><code>212</code><name>Dominica</name><three_digits>DMA</three_digits><two_digits>DM</two_digits></country>
+	<country><code>214</code><name>Repubblica Dominicana</name><three_digits>DOM</three_digits><two_digits>DO</two_digits></country>
+	<country><code>262</code><name>Gibuti</name><three_digits>DJI</three_digits><two_digits>DJ</two_digits></country>
+	<country><code>218</code><name>Ecuador</name><three_digits>ECU</three_digits><two_digits>EC</two_digits></country>
+	<country><code>807</code><name>L’ex Repubblica Jugoslava di Macedonia</name><three_digits>MKD</three_digits><two_digits>MK</two_digits></country>
+	<country><code>222</code><name>El Salvador</name><three_digits>SLV</three_digits><two_digits>SV</two_digits></country>
+	<country><code>384</code><name>Costa d’Avorio</name><three_digits>CIV</three_digits><two_digits>CI</two_digits></country>
+	<country><code>232</code><name>Eritrea</name><three_digits>ERI</three_digits><two_digits>ER</two_digits></country>
+	<country><code>233</code><name>Estonia</name><three_digits>EST</three_digits><two_digits>EE</two_digits></country>
+	<country><code>238</code><name>Isole Falkland (Isole Malvine)</name><three_digits>FLK</three_digits><two_digits>FK</two_digits></country>
+	<country><code>234</code><name>Isole Faroe</name><three_digits>FRO</three_digits><two_digits>FO</two_digits></country>
+	<country><code>242</code><name>Figi</name><three_digits>FJI</three_digits><two_digits>FJ</two_digits></country>
+	<country><code>246</code><name>Finlandia</name><three_digits>FIN</three_digits><two_digits>FI</two_digits></country>
+	<country><code>250</code><name>Francia</name><three_digits>FRA</three_digits><two_digits>FR</two_digits></country>
+	<country><code>254</code><name>Guyana francese</name><three_digits>GUF</three_digits><two_digits>GF</two_digits></country>
+	<country><code>258</code><name>Polinesia francese</name><three_digits>PYF</three_digits><two_digits>PF</two_digits></country>
+	<country><code>266</code><name>Gabon</name><three_digits>GAB</three_digits><two_digits>GA</two_digits></country>
+	<country><code>270</code><name>Gambia</name><three_digits>GMB</three_digits><two_digits>GM</two_digits></country>
+	<country><code>268</code><name>Georgia</name><three_digits>GEO</three_digits><two_digits>GE</two_digits></country>
+	<country><code>288</code><name>Ghana</name><three_digits>GHA</three_digits><two_digits>GH</two_digits></country>
+	<country><code>292</code><name>Gibilterra</name><three_digits>GIB</three_digits><two_digits>GI</two_digits></country>
+	<country><code>308</code><name>Grenada</name><three_digits>GRD</three_digits><two_digits>GD</two_digits></country>
+	<country><code>300</code><name>Grecia</name><three_digits>GRC</three_digits><two_digits>GR</two_digits></country>
+	<country><code>304</code><name>Groenlandia</name><three_digits>GRL</three_digits><two_digits>GL</two_digits></country>
+	<country><code>312</code><name>Guadalupe</name><three_digits>GLP</three_digits><two_digits>GP</two_digits></country>
+	<country><code>316</code><name>Guam</name><three_digits>GUM</three_digits><two_digits>GU</two_digits></country>
+	<country><code>320</code><name>Guatemala</name><three_digits>GTM</three_digits><two_digits>GT</two_digits></country>
+	<country><code>831</code><name>Guernsey</name><three_digits>GGY</three_digits><two_digits>GG</two_digits></country>
+	<country><code>324</code><name>Guinea</name><three_digits>GIN</three_digits><two_digits>GN</two_digits></country>
+	<country><code>624</code><name>Guinea-Bissau</name><three_digits>GNB</three_digits><two_digits>GW</two_digits></country>
+	<country><code>328</code><name>Guyana</name><three_digits>GUY</three_digits><two_digits>GY</two_digits></country>
+	<country><code>332</code><name>Haiti</name><three_digits>HTI</three_digits><two_digits>HT</two_digits></country>
+	<country><code>340</code><name>Honduras</name><three_digits>HND</three_digits><two_digits>HN</two_digits></country>
+	<country><code>344</code><name>Hong Kong Regione Amministrativa Speciale della Cina</name><three_digits>HKG</three_digits><two_digits>HK</two_digits></country>
+	<country><code>356</code><name>India</name><three_digits>IND</three_digits><two_digits>IN</two_digits></country>
+	<country><code>360</code><name>Indonesia</name><three_digits>IDN</three_digits><two_digits>ID</two_digits></country>
+	<country><code>368</code><name>Iraq</name><three_digits>IRQ</three_digits><two_digits>IQ</two_digits></country>
+	<country><code>364</code><name>(Repubblica Islamica dell’)Iran</name><three_digits>IRN</three_digits><two_digits>IR</two_digits></country>
+	<country><code>372</code><name>Irlanda</name><three_digits>IRL</three_digits><two_digits>IE</two_digits></country>
+	<country><code>352</code><name>Islanda</name><three_digits>ISL</three_digits><two_digits>IS</two_digits></country>
+	<country><code>833</code><name>Isola di Man</name><three_digits></three_digits><two_digits>IM</two_digits></country>
+	<country><code>376</code><name>Israele</name><three_digits>ISR</three_digits><two_digits>IL</two_digits></country>
+	<country><code>380</code><name>Italia</name><three_digits>ITA</three_digits><two_digits>IT</two_digits></country>
+	<country><code>388</code><name>Giamaica</name><three_digits>JAM</three_digits><two_digits>JM</two_digits></country>
+	<country><code>392</code><name>Giappone</name><three_digits>JPN</three_digits><two_digits>JP</two_digits></country>
+	<country><code>887</code><name>Yemen</name><three_digits>YEM</three_digits><two_digits>YE</two_digits></country>
+	<country><code>832</code><name>Jersey</name><three_digits>JEY</three_digits><two_digits>JE</two_digits></country>
+	<country><code>400</code><name>Giordania</name><three_digits>JOR</three_digits><two_digits>JO</two_digits></country>
+	<country><code>891</code><name>Jugoslavia</name><three_digits>YUG</three_digits><two_digits>YU</two_digits></country>
+	<country><code>136</code><name>Isole Cayman</name><three_digits>CYM</three_digits><two_digits>KY</two_digits></country>
+	<country><code>116</code><name>Cambogia</name><three_digits>KHM</three_digits><two_digits>KH</two_digits></country>
+	<country><code>120</code><name>Camerun</name><three_digits>CMR</three_digits><two_digits>CM</two_digits></country>
+	<country><code>124</code><name>Canada</name><three_digits>CAN</three_digits><two_digits>CA</two_digits></country>
+	<country><code>830</code><name>Isole del Canale</name><three_digits></three_digits><two_digits></two_digits></country>
+	<country><code>132</code><name>Capo Verde</name><three_digits>CPV</three_digits><two_digits>CV</two_digits></country>
+	<country><code>398</code><name>Kazakistan</name><three_digits>KAZ</three_digits><two_digits>KZ</two_digits></country>
+	<country><code>634</code><name>Qatar</name><three_digits>QAT</three_digits><two_digits>QA</two_digits></country>
+	<country><code>404</code><name>Kenya</name><three_digits>KEN</three_digits><two_digits>KE</two_digits></country>
+	<country><code>417</code><name>Kirghizistan</name><three_digits>KGZ</three_digits><two_digits>KG</two_digits></country>
+	<country><code>296</code><name>Kiribati</name><three_digits>KIR</three_digits><two_digits>KI</two_digits></country>
+	<country><code>170</code><name>Colombia</name><three_digits>COL</three_digits><two_digits>CO</two_digits></country>
+	<country><code>174</code><name>Comore</name><three_digits>COM</three_digits><two_digits>KM</two_digits></country>
+	<country><code>178</code><name>Congo</name><three_digits>COG</three_digits><two_digits>CG</two_digits></country>
+	<country><code>191</code><name>Croazia</name><three_digits>HRV</three_digits><two_digits>HR</two_digits></country>
+	<country><code>192</code><name>Cuba</name><three_digits>CUB</three_digits><two_digits>CU</two_digits></country>
+	<country><code>414</code><name>Kuwait</name><three_digits>KWT</three_digits><two_digits>KW</two_digits></country>
+	<country><code>426</code><name>Lesotho</name><three_digits>LSO</three_digits><two_digits>LS</two_digits></country>
+	<country><code>428</code><name>Lettonia</name><three_digits>LVA</three_digits><two_digits>LV</two_digits></country>
+	<country><code>422</code><name>Libano</name><three_digits>LBN</three_digits><two_digits>LB</two_digits></country>
+	<country><code>430</code><name>Liberia</name><three_digits>LBR</three_digits><two_digits>LR</two_digits></country>
+	<country><code>434</code><name>Giamahiria araba libica</name><three_digits>LBY</three_digits><two_digits>LY</two_digits></country>
+	<country><code>438</code><name>Liechtenstein</name><three_digits>LIE</three_digits><two_digits>LI</two_digits></country>
+	<country><code>440</code><name>Lituania</name><three_digits>LTU</three_digits><two_digits>LT</two_digits></country>
+	<country><code>442</code><name>Lussemburgo</name><three_digits>LUX</three_digits><two_digits>LU</two_digits></country>
+	<country><code>446</code><name>Macao Regione Amministrativa Speciale della Cina</name><three_digits>MAC</three_digits><two_digits>MO</two_digits></country>
+	<country><code>450</code><name>Madagascar</name><three_digits>MDG</three_digits><two_digits>MG</two_digits></country>
+	<country><code>454</code><name>Malawi</name><three_digits>MWI</three_digits><two_digits>MW</two_digits></country>
+	<country><code>458</code><name>Malesia</name><three_digits>MYS</three_digits><two_digits>MY</two_digits></country>
+	<country><code>462</code><name>Maldive</name><three_digits>MDV</three_digits><two_digits>MV</two_digits></country>
+	<country><code>466</code><name>Mali</name><three_digits>MLI</three_digits><two_digits>ML</two_digits></country>
+	<country><code>470</code><name>Malta</name><three_digits>MLT</three_digits><two_digits>MT</two_digits></country>
+	<country><code>504</code><name>Marocco</name><three_digits>MAR</three_digits><two_digits>MA</two_digits></country>
+	<country><code>584</code><name>Isole Marshall</name><three_digits>MHL</three_digits><two_digits>MH</two_digits></country>
+	<country><code>474</code><name>Martinica</name><three_digits>MTQ</three_digits><two_digits>MQ</two_digits></country>
+	<country><code>478</code><name>Mauritania</name><three_digits>MRT</three_digits><two_digits>MR</two_digits></country>
+	<country><code>480</code><name>Mauritius</name><three_digits>MUS</three_digits><two_digits>MU</two_digits></country>
+	<country><code>175</code><name>Mayotte</name><three_digits>MYT</three_digits><two_digits>YT</two_digits></country>
+	<country><code>484</code><name>Messico</name><three_digits>MEX</three_digits><two_digits>MX</two_digits></country>
+	<country><code>583</code><name>Micronesia, Stati Federati di</name><three_digits>FSM</three_digits><two_digits>FM</two_digits></country>
+	<country><code>498</code><name>Repubblica di Moldavia</name><three_digits>MDA</three_digits><two_digits>MD</two_digits></country>
+	<country><code>492</code><name>Monaco</name><three_digits>MCO</three_digits><two_digits>MC</two_digits></country>
+	<country><code>496</code><name>Mongolia</name><three_digits>MNG</three_digits><two_digits>MN</two_digits></country>
+	<country><code>499</code><name>Montenegro</name><three_digits>MNE</three_digits><two_digits>ME</two_digits></country>
+	<country><code>500</code><name>Montserrat</name><three_digits>MSR</three_digits><two_digits>MS</two_digits></country>
+	<country><code>508</code><name>Mozambico</name><three_digits>MOZ</three_digits><two_digits>MZ</two_digits></country>
+	<country><code>104</code><name>Myanmar</name><three_digits>MMR</three_digits><two_digits>MM</two_digits></country>
+	<country><code>516</code><name>Namibia</name><three_digits>NAM</three_digits><two_digits>NA</two_digits></country>
+	<country><code>520</code><name>Nauru</name><three_digits>NRU</three_digits><two_digits>NR</two_digits></country>
+	<country><code>524</code><name>Nepal</name><three_digits>NPL</three_digits><two_digits>NP</two_digits></country>
+	<country><code>540</code><name>Nuova Caledonia</name><three_digits>NCL</three_digits><two_digits>NC</two_digits></country>
+	<country><code>554</code><name>Nuova Zelanda</name><three_digits>NZL</three_digits><two_digits>NZ</two_digits></country>
+	<country><code>558</code><name>Nicaragua</name><three_digits>NIC</three_digits><two_digits>NI</two_digits></country>
+	<country><code>528</code><name>Paesi Bassi</name><three_digits>NLD</three_digits><two_digits>NL</two_digits></country>
+	<country><code>530</code><name>Antille dei Paesi Bassi</name><three_digits>ANT</three_digits><two_digits>AN</two_digits></country>
+	<country><code>562</code><name>Niger</name><three_digits>NER</three_digits><two_digits>NE</two_digits></country>
+	<country><code>566</code><name>Nigeria</name><three_digits>NGA</three_digits><two_digits>NG</two_digits></country>
+	<country><code>570</code><name>Niue</name><three_digits>NIU</three_digits><two_digits>NU</two_digits></country>
+	<country><code>580</code><name>Isole Marianne Settentrionali</name><three_digits>MNP</three_digits><two_digits>MP</two_digits></country>
+	<country><code>574</code><name>Isola Norfolk</name><three_digits>NFK</three_digits><two_digits>NF</two_digits></country>
+	<country><code>578</code><name>Norvegia</name><three_digits>NOR</three_digits><two_digits>NO</two_digits></country>
+	<country><code>512</code><name>Oman</name><three_digits>OMN</three_digits><two_digits>OM</two_digits></country>
+	<country><code>040</code><name>Austria</name><three_digits>AUT</three_digits><two_digits>AT</two_digits></country>
+	<country><code>586</code><name>Pakistan</name><three_digits>PAK</three_digits><two_digits>PK</two_digits></country>
+	<country><code>585</code><name>Palau</name><three_digits>PLW</three_digits><two_digits>PW</two_digits></country>
+	<country><code>591</code><name>Panama</name><three_digits>PAN</three_digits><two_digits>PA</two_digits></country>
+	<country><code>598</code><name>Papua Nuova Guinea</name><three_digits>PNG</three_digits><two_digits>PG</two_digits></country>
+	<country><code>600</code><name>Paraguay</name><three_digits>PRY</three_digits><two_digits>PY</two_digits></country>
+	<country><code>604</code><name>Perù</name><three_digits>PER</three_digits><two_digits>PE</two_digits></country>
+	<country><code>608</code><name>Filippine</name><three_digits>PHL</three_digits><two_digits>PH</two_digits></country>
+	<country><code>612</code><name>Pitcairn</name><three_digits>PCN</three_digits><two_digits>PN</two_digits></country>
+	<country><code>616</code><name>Polonia</name><three_digits>POL</three_digits><two_digits>PL</two_digits></country>
+	<country><code>620</code><name>Portogallo</name><three_digits>PRT</three_digits><two_digits>PT</two_digits></country>
+	<country><code>630</code><name>Porto Rico</name><three_digits>PRI</three_digits><two_digits>PR</two_digits></country>
+	<country><code>638</code><name>Riunione</name><three_digits>REU</three_digits><two_digits>RE</two_digits></country>
+	<country><code>646</code><name>Ruanda</name><three_digits>RWA</three_digits><two_digits>RW</two_digits></country>
+	<country><code>642</code><name>Romania</name><three_digits>ROU</three_digits><two_digits>RO</two_digits></country>
+	<country><code>643</code><name>Federazione russa</name><three_digits>RUS</three_digits><two_digits>RU</two_digits></country>
+	<country><code>662</code><name>Santa Lucia</name><three_digits>LCA</three_digits><two_digits>WL</two_digits></country>
+	<country><code>666</code><name>Saint Pierre e Miquelon</name><three_digits>SPM</three_digits><two_digits>PM</two_digits></country>
+	<country><code>090</code><name>Isole Salomone</name><three_digits>SLB</three_digits><two_digits>SB</two_digits></country>
+	<country><code>894</code><name>Zambia</name><three_digits>ZMB</three_digits><two_digits>ZM</two_digits></country>
+	<country><code>882</code><name>Samoa</name><three_digits>WSM</three_digits><two_digits>WS</two_digits></country>
+	<country><code>674</code><name>San Marino</name><three_digits>SMR</three_digits><two_digits>SM</two_digits></country>
+	<country><code>678</code><name>Sao Tome e Principe</name><three_digits>STP</three_digits><two_digits>ST</two_digits></country>
+	<country><code>682</code><name>Arabia Saudita</name><three_digits>SAU</three_digits><two_digits>SA</two_digits></country>
+	<country><code>752</code><name>Svezia</name><three_digits>SWE</three_digits><two_digits>SE</two_digits></country>
+	<country><code>756</code><name>Svizzero</name><three_digits>CHE</three_digits><two_digits>CH</two_digits></country>
+	<country><code>686</code><name>Senegal</name><three_digits>SEN</three_digits><two_digits>SN</two_digits></country>
+	<country><code>688</code><name>Serbia</name><three_digits>SRB</three_digits><two_digits>RS</two_digits></country>
+	<country><code>690</code><name>Seychelles</name><three_digits>SYC</three_digits><two_digits>SC</two_digits></country>
+	<country><code>694</code><name>Sierra Leone</name><three_digits>SLE</three_digits><two_digits>SL</two_digits></country>
+	<country><code>716</code><name>Zimbabwe</name><three_digits>ZWE</three_digits><two_digits>ZW</two_digits></country>
+	<country><code>702</code><name>Singapore</name><three_digits>SGP</three_digits><two_digits>SG</two_digits></country>
+	<country><code>703</code><name>Slovacchia</name><three_digits>SVK</three_digits><two_digits>SK</two_digits></country>
+	<country><code>705</code><name>Slovenia</name><three_digits>SVN</three_digits><two_digits>SI</two_digits></country>
+	<country><code>706</code><name>Somalia</name><three_digits>SOM</three_digits><two_digits>SO</two_digits></country>
+	<country><code>724</code><name>Spagna</name><three_digits>ESP</three_digits><two_digits>ES</two_digits></country>
+	<country><code>744</code><name>Isole di Svalbard e Jan Mayen</name><three_digits>SJM</three_digits><two_digits>SJ</two_digits></country>
+	<country><code>144</code><name>Sri Lanka</name><three_digits>LKA</three_digits><two_digits>LK</two_digits></country>
+	<country><code>654</code><name>Sant’Elena</name><three_digits>SHN</three_digits><two_digits>SH</two_digits></country>
+	<country><code>659</code><name>Saint Kitts e Nevis</name><three_digits>KNA</three_digits><two_digits>KN</two_digits></country>
+	<country><code>670</code><name>Saint Vincent e Grenadine</name><three_digits>VCT</three_digits><two_digits>VC</two_digits></country>
+	<country><code>710</code><name>Sud Africa</name><three_digits>ZAF</three_digits><two_digits>ZA</two_digits></country>
+	<country><code>736</code><name>Sudan</name><three_digits>SDN</three_digits><two_digits>SD</two_digits></country>
+	<country><code>410</code><name>Repubblica di Corea</name><three_digits>KOR</three_digits><two_digits>KR</two_digits></country>
+	<country><code>740</code><name>Suriname</name><three_digits>SUR</three_digits><two_digits>SR</two_digits></country>
+	<country><code>748</code><name>Swaziland</name><three_digits>SWZ</three_digits><two_digits>SZ</two_digits></country>
+	<country><code>760</code><name>Repubblica Araba di Siria</name><three_digits>SYR</three_digits><two_digits>SY</two_digits></country>
+	<country><code>762</code><name>Tagikistan</name><three_digits>TJK</three_digits><two_digits>TJ</two_digits></country>
+	<country><code>158</code><name>Taiwan Provincia della Cina</name><three_digits>TWN</three_digits><two_digits>TW</two_digits></country>
+	<country><code>764</code><name>Thailandia</name><three_digits>THA</three_digits><two_digits>TH</two_digits></country>
+	<country><code>626</code><name>Timor-Est</name><three_digits>TLS</three_digits><two_digits>TL</two_digits></country>
+	<country><code>768</code><name>Togo</name><three_digits>TGO</three_digits><two_digits>TG</two_digits></country>
+	<country><code>772</code><name>Tokelau</name><three_digits>TKL</three_digits><two_digits>TK</two_digits></country>
+	<country><code>776</code><name>Tonga</name><three_digits>TON</three_digits><two_digits>TO</two_digits></country>
+	<country><code>780</code><name>Trinidad e Tobago</name><three_digits>TTO</three_digits><two_digits>TT</two_digits></country>
+	<country><code>148</code><name>Ciad</name><three_digits>TCD</three_digits><two_digits>TD</two_digits></country>
+	<country><code>203</code><name>Repubblica Ceca</name><three_digits>CZE</three_digits><two_digits>CZ</two_digits></country>
+	<country><code>788</code><name>Tunisia</name><three_digits>TUN</three_digits><two_digits>TN</two_digits></country>
+	<country><code>792</code><name>Turchia</name><three_digits>TUR</three_digits><two_digits>TR</two_digits></country>
+	<country><code>795</code><name>Turkmenistan</name><three_digits>TKM</three_digits><two_digits>TM</two_digits></country>
+	<country><code>796</code><name>Isole Turks e Caicos</name><three_digits>TCA</three_digits><two_digits>TC</two_digits></country>
+	<country><code>798</code><name>Tuvalu</name><three_digits>TUV</three_digits><two_digits>TV</two_digits></country>
+	<country><code>800</code><name>Uganda</name><three_digits>UGA</three_digits><two_digits>UG</two_digits></country>
+	<country><code>804</code><name>Ucraina</name><three_digits>UKR</three_digits><two_digits>UA</two_digits></country>
+	<country><code>348</code><name>Ungheria</name><three_digits>HUN</three_digits><two_digits>HU</two_digits></country>
+	<country><code>858</code><name>Uruguay</name><three_digits>URY</three_digits><two_digits>UY</two_digits></country>
+	<country><code>860</code><name>Uzbekistan</name><three_digits>UZB</three_digits><two_digits>ZU</two_digits></country>
+	<country><code>548</code><name>Vanuatu</name><three_digits>VUT</three_digits><two_digits>VU</two_digits></country>
+	<country><code>336</code><name>Santa Sede</name><three_digits>VAT</three_digits><two_digits>VA</two_digits></country>
+	<country><code>862</code><name>Venezuela</name><three_digits>VEN</three_digits><two_digits>VE</two_digits></country>
+	<country><code>784</code><name>Emirati Arabi Uniti</name><three_digits>ARE</three_digits><two_digits>AE</two_digits></country>
+	<country><code>834</code><name>Repubblica Unita di Tanzania</name><three_digits>TZA</three_digits><two_digits>TZ</two_digits></country>
+	<country><code>840</code><name>Stati Uniti</name><three_digits>USA</three_digits><two_digits>US</two_digits></country>
+	<country><code>826</code><name>Regno Unito</name><three_digits>GBR</three_digits><two_digits>GB</two_digits></country>
+	<country><code>704</code><name>Vietnam</name><three_digits>VNM</three_digits><two_digits>VN</two_digits></country>
+	<country><code>876</code><name>Isole di Wallis e Futuna</name><three_digits>WLF</three_digits><two_digits>WF</two_digits></country>
+	<country><code>112</code><name>Bielorussia</name><three_digits>BLR</three_digits><two_digits>BY</two_digits></country>
+	<country><code>732</code><name>Sahara Occidentale</name><three_digits>ESH</three_digits><two_digits>EH</two_digits></country>
+	<country><code>140</code><name>Repubblica dell’Africa Centrale</name><three_digits>CAF</three_digits><two_digits>CF</two_digits></country>
+	<country><code>196</code><name>Cipro</name><three_digits>CYP</three_digits><two_digits>CY</two_digits></country>
+</countries>
